@@ -35,8 +35,7 @@ content from a browser — without touching code or redeploying.
 ## Architecture
 
 
-┌─────────────────────────────────────────────────────────────┐
-![Uploading image.png…]()
+<img width="346" height="281" alt="image" src="https://github.com/user-attachments/assets/5e4f1789-63a3-49fc-95e4-4ab1dbae7259" />
 
 
 
